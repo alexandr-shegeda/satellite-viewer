@@ -1,1 +1,1 @@
-# sattelit-viewer
+# satellite-viewer
