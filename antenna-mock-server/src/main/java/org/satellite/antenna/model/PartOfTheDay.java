@@ -1,4 +1,4 @@
-package org.stellite.antenna.model;
+package org.satellite.antenna.model;
 
 public enum  PartOfTheDay {
 

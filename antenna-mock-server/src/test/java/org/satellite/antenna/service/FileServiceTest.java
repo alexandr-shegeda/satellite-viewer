@@ -1,4 +1,4 @@
-package org.stellite.antenna.service;
+package org.satellite.antenna.service;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;

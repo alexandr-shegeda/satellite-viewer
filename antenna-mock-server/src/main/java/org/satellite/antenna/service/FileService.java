@@ -1,4 +1,4 @@
-package org.stellite.antenna.service;
+package org.satellite.antenna.service;
 
 public interface FileService {
 

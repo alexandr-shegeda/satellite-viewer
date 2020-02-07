@@ -1,7 +1,7 @@
-package org.stellite.antenna.service;
+package org.satellite.antenna.service;
 
 import org.springframework.stereotype.Service;
-import org.stellite.antenna.model.PartOfTheDay;
+import org.satellite.antenna.model.PartOfTheDay;
 
 import java.time.Instant;
 import java.time.LocalDateTime;
