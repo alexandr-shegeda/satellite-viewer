@@ -1,4 +1,4 @@
-package org.stellite;
+package org.stellite.antenna.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
